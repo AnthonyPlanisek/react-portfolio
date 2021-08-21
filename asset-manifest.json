@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/AnthonyPlanisek/react-portfolio/static/js/main.b9c10a39.chunk.js",
+    "main.js.map": "/AnthonyPlanisek/react-portfolio/static/js/main.b9c10a39.chunk.js.map",
+    "runtime-main.js": "/AnthonyPlanisek/react-portfolio/static/js/runtime-main.e7867128.js",
+    "runtime-main.js.map": "/AnthonyPlanisek/react-portfolio/static/js/runtime-main.e7867128.js.map",
+    "static/css/2.818011ed.chunk.css": "/AnthonyPlanisek/react-portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.7bc56266.chunk.js": "/AnthonyPlanisek/react-portfolio/static/js/2.7bc56266.chunk.js",
+    "static/js/2.7bc56266.chunk.js.map": "/AnthonyPlanisek/react-portfolio/static/js/2.7bc56266.chunk.js.map",
+    "index.html": "/AnthonyPlanisek/react-portfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/AnthonyPlanisek/react-portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/js/2.7bc56266.chunk.js.LICENSE.txt": "/AnthonyPlanisek/react-portfolio/static/js/2.7bc56266.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7867128.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.7bc56266.chunk.js",
+    "static/js/main.b9c10a39.chunk.js"
+  ]
+}
